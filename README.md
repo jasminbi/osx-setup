@@ -4,7 +4,6 @@
 - `ssh-keygen -t rsa -b 4096 -C "marc.illien@gmail.com"`
 - `cat ~/.ssh/id_rsa.pub | pbcopy`
 - [github](https://github.com/settings/keys)
-- [bitbucked](https://bitbucket.org/account/user/<user>/ssh-keys/)
 
 
 ## brew, git, vim, tmux...
@@ -29,8 +28,13 @@ brew install reattach-to-user-namespace
 ## Cask Applications
 ```
 brew cask install alfred
-brew cask install appcleaner
 brew cask install atom
+brew cask install appcleaner
+brew cask install iterm2
+brew cask install slack
+brew cask install spotify
+brew cask install hyper
+
 brew cask install cheatsheet
 brew cask install docker
 brew cask install docker-toolbox
@@ -38,15 +42,12 @@ brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
 brew cask install google-drive
-brew cask install iterm2
 brew cask install phpstorm
 brew cask install pycharm
 brew cask install virtualbox
 brew cask install vlc
-brew cask install slack
-brew cask install spotify
 brew cask install visual-studio-code
-brew cask install hyper
+
 ```
 
 ## Atom
