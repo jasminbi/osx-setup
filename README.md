@@ -59,11 +59,11 @@ apm install react
 brew tap thoughtbot/formulae
 brew install rcm
 mkdir ~/.dotfiles
-git clone git@github.com:jackblackCH/.dotfiles.git .
+git clone git@github.com:jasminbi/.dotfiles.git .
 rcup -v
 
-git config --global user.name "Marc Illien"
-git config --global user.email "marc.illien@siroop.ch"
+git config --global user.name "Jasmin Bissig"
+git config --global user.email "jasmin.bissig@gmail.com"
 ```
 
 ## Custom needs
