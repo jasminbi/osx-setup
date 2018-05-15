@@ -1,7 +1,7 @@
 #  macOS Developer Setup
 
 ## SSH
-- `ssh-keygen -t rsa -b 4096 -C "marc.illien@gmail.com"`
+- `ssh-keygen -t rsa -b 4096 -C "jasmin.bissig@gmail.com"`
 - `cat ~/.ssh/id_rsa.pub | pbcopy`
 - [github](https://github.com/settings/keys)
 
